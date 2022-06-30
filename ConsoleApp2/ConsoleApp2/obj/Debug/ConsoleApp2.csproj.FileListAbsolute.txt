@@ -6,3 +6,11 @@ C:\Users\Philip\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.cspro
 C:\Users\Philip\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
 C:\Users\Philip\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 C:\Users\Philip\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Philip\Documents\Nova pasta (2)\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Philip\Documents\Nova pasta (2)\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Philip\Documents\Nova pasta (2)\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Philip\Documents\Nova pasta (2)\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Philip\Documents\Nova pasta (2)\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Philip\Documents\Nova pasta (2)\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Philip\Documents\Nova pasta (2)\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Philip\Documents\Nova pasta (2)\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
