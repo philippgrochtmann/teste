@@ -1,0 +1,60 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp3
+{
+    internal class Program
+    {
+
+        class Person
+        {
+            public int idade;
+            private string nome;
+            public Person(string nm, int ida)
+            {
+                nome = nm;
+                idade = ida;
+                Console.WriteLine("teste");
+                Console.WriteLine(this.idade);
+
+            }
+            public string GettName()
+            {
+                string retorno = nome;
+                return retorno;
+            }
+            public int Getidade()
+            {
+                return idade;
+            }
+            public void print()
+            {
+                Console.WriteLine(this.idade);
+            }
+        }
+
+
+
+
+        static void Main(string[] args)
+        {
+            Person p = new Person(Console.ReadLine(),22);
+            p.idade = 30;
+            Console.WriteLine(p.GettName());
+            Console.WriteLine(p.Getidade());
+            
+            Console.ReadLine();
+        }
+    }
+}
+class Person
+{
+    private string name;
+    public string Name
+    {
+        get { return name; }
+    }
+}
